@@ -1,6 +1,11 @@
+
 <h1 align="center">Hi 👋, I'm I'm Godwin peter .O</h1>
+
 <h3 align="center">A fullstack developer</h3>
 
+----
+
+<div align="center">
 <a href="https://github.com/gpproton" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -16,7 +21,7 @@
 <a href="https://gitlab.com/gpproton" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>  
-  
+</div>
 
 
 
@@ -115,7 +120,9 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
 </td></tr>
 </table>  
 <br/>  
+
 ----
+
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=gpproton" alt="gpproton" />
 </p>
