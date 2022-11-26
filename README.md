@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm I'm Godwin peter .O</h1>
+<h1 align="center">Hi, I'm Godwin peter .O</h1>
 
 <h3 align="center">A fullstack developer</h3>
 
