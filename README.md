@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm I'm Godwin peter .O</h1>
 <h3 align="center">A fullstack developer</h3>
 
-
-  
-
 <a href="https://github.com/gpproton" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -28,7 +25,7 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
   
 
 <br/>  
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gpproton" alt="gpproton" /></a> </p>
+ 
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [Proton.Frequency](https://github.com/gpproton/Proton.Frequency)
@@ -118,18 +115,14 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
 </td></tr></table>  
 
 <br/>  
+<br/>
+<br/>
 
-  
-
-<br/>  
-
-  
-
-<br/>  
-
+----
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gpproton" alt="gpproton" /></a>
+</p>
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
