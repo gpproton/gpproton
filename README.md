@@ -120,7 +120,7 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
 
 ----
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gpproton" alt="gpproton" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=gpproton" alt="gpproton" />
 </p>
 
 <br />
