@@ -32,7 +32,7 @@ I’m a full-stack .NET developer who has turned years of freelancing into a ful
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="100%">
       
 - 🔭 I’m currently working on [Trace](https://github.com/drolx/trace)
 - 🌱 I’m currently learning **SAP ABAP, Spring, Svelte**
