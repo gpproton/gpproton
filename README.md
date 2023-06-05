@@ -31,7 +31,7 @@ I’m a full-stack .NET developer who has turned years of freelancing into a ful
 <br/>
 
 <table align="center">
-  <tr align="center">
+  <tr>
     <td valign="top" width="90%">
       
 - 🔭 I’m currently working on [Trace](https://github.com/drolx/trace)
