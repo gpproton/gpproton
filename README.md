@@ -27,12 +27,12 @@
 
 ### Glad to see you here!  
 I’m a full-stack .NET developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with backend support.  
-  
 
-<br/>  
- 
-<table><tr><td valign="top" width="50%">
+<br/>
 
+<table>
+  <tr>
+    <td valign="top" width="50%">
 - 🔭 I’m currently working on [Trace](https://github.com/drolx/trace)
 
 - 🌱 I’m currently learning **SAP ABAP, Spring, Svelte**
@@ -42,21 +42,15 @@ I’m a full-stack .NET developer who has turned years of freelancing into a ful
 - 💬 Ask me about **Ansible, Quasar, Vue, Kubernetes, Docker**
 
 - 📫 How to reach me **me@godwin.dev**
-
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
+    </td>
+    <td valign="top" width="50%"
+      <div align="center">
+      <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+    </div>
+  </tr>
+</table>
 
 <br/>  
-
-
 
 ### Laguages  
 <div align="center">
