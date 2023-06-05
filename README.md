@@ -46,6 +46,7 @@ I’m a full-stack .NET developer who has turned years of freelancing into a ful
 
 <br/>  
 
+<div align="center">
 <center><h3>Languages</h3> </center>
 
 <div align="center">
@@ -58,7 +59,7 @@ I’m a full-stack .NET developer who has turned years of freelancing into a ful
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="50" /></a>  
 </div>  
-
+</div>
 
 
 ### Tools  
