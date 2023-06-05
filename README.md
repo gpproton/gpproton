@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Godwin peter .O</h1>
 
-<h3 align="center">A fullstack developer</h3>
+<h3 align="center">A FullStack .NET Developer</h3>
 
 ----
 
@@ -26,20 +26,20 @@
 
 
 ### Glad to see you here!  
-I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with backend support.  
+I’m a full-stack .NET developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with backend support.  
   
 
 <br/>  
  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Proton.Frequency](https://github.com/gpproton/Proton.Frequency)
+- 🔭 I’m currently working on [Trace](https://github.com/drolx/trace)
 
-- 🌱 I’m currently learning **Ansible, Spring, Svelte**
+- 🌱 I’m currently learning **SAP ABAP, Spring, Svelte**
 
-- 👯 I’m looking to collaborate on [xclaim](https://github.com/gpproton/xclaim)
+- 👯 I’m looking to collaborate on [Proton.Frequency](https://github.com/gpproton/[Proton.Frequency)
 
-- 💬 Ask me about **Quasar, Vue, OpenStreetMap, Docker**
+- 💬 Ask me about **Ansible, Quasar, Vue, Kubernetes, Docker**
 
 - 📫 How to reach me **me@godwin.dev**
 
