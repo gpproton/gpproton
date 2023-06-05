@@ -62,7 +62,8 @@ I’m a full-stack .NET developer who has turned years of freelancing into a ful
 </div>
 
 
-### Tools  
+<div align="center">
+<center><h3>Tools</h3> </center>
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
@@ -92,7 +93,8 @@ I’m a full-stack .NET developer who has turned years of freelancing into a ful
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://cassandra.apache.org/_/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" alt="Cassandra" height="50" /></a>  
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
-</div>  
+</div>
+</div>
 
 <br/>  
 
