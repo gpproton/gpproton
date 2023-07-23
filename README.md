@@ -102,7 +102,8 @@ I’m a full-stack .NET developer who has turned years of freelancing into a ful
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gpproton&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<!--<img src="https://github-readme-stats.vercel.app/api?username=gpproton&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" /> -->
+![gpproton GitHub Stats](https://github-readme-stats.vercel.app/api?username=gpproton&theme=cobalt&show_icons=true&&line_height=40)
 
 </td><td valign="top" width="50%">
 
@@ -110,15 +111,6 @@ I’m a full-stack .NET developer who has turned years of freelancing into a ful
 
 </td></tr>
 </table>  
-<br/>  
-
-----
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=gpproton" alt="gpproton" />
-</p>
-
-<br />
-<br />
+<br/>
 
 
