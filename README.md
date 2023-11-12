@@ -36,7 +36,7 @@ I’m a full-stack .NET developer who has turned years of freelancing into a ful
       
 - 🔭 I’m currently working on [Trace](https://github.com/drolx/trace)
 - 🌱 I’m currently learning **Terraform, Spring, Golang**
-- 👯 I’m looking to collaborate on [Proton.Frequency](https://github.com/drolx/Frequency)
+- 👯 I’m looking to collaborate on [Frequency](https://github.com/drolx/Frequency)
 - 💬 Ask me about **Ansible, Quasar, Vue, Kubernetes, Docker**
 - 📫 How to reach me **me@godwin.dev**
       
