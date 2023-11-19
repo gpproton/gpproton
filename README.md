@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Godwin peter .O</h1>
 
-<h3 align="center">A FullStack .NET Developer</h3>
+<h3 align="center">A FullStack Developer</h3>
 
 ----
 
