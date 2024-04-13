@@ -36,8 +36,8 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
       
 - 🔭 I’m currently working on [Trace](https://github.com/drolx/trace)
 - 🌱 I’m currently learning **Terraform, Tailwind CSS, Golang**
-- 👯 I’m looking to collaborate on [Frequency](https://github.com/drolx/trace)
-- 💬 Ask me about **Ansible, Quasar, Vue, Kubernetes, Docker**
+- 👯 I’m looking to collaborate on [Trace](https://github.com/drolx/trace)
+- 💬 Ask me about **Ansible, Nuxt, Vue, Kubernetes, Docker**
 - 📫 How to reach me **me@godwin.dev**
       
     </td>
