@@ -34,10 +34,10 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
   <tr>
     <td valign="top" width="90%">
       
-- 🔭 I’m currently working on [Trace](https://github.com/drolx/trace)
-- 🌱 I’m currently learning **Terraform, Tailwind CSS, Golang**
-- 👯 I’m looking to collaborate on [Trace](https://github.com/drolx/trace)
-- 💬 Ask me about **Ansible, Nuxt, Vue, Kubernetes, Docker**
+- 🔭 I’m currently working on logistics SaaS
+- 🌱 I’m currently learning **Terraform, Puppet, Mojo**
+- 👯 I’m looking to collaborate on [Trace](https://github.com/gpproton/mochi)
+- 💬 Ask me about **Ansible, Nuxt, Vue, dotnet, Docker**
 - 📫 How to reach me **me@godwin.dev**
       
     </td>
@@ -49,7 +49,7 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
 <center><h3>Tools & Languages</h3></center>
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,ansible,bun,cs,css,cassandra,dotnet,go,graphql,typescript,nodejs,php,react,vue,nuxtjs,tailwind,tauri,nestjs,redis,postgresql,mysql,sqlite,astro,git,github,githubactions,laravel,nginx,obsidian,pkl,pnpm,mysql,postgres,prometheus,vite,vitest,vscode,visualstudio,docker,kubernetes,neovim,cloudflare,aws,grafana,yarn" />
+    <img src="https://skillicons.dev/icons?i=angular,ansible,cs,dotnet,go,graphql,typescript,nodejs,react,vue,nuxtjs,tailwind,nestjs,astro,git,laravel,pnpm,postgres,vite,vscode,visualstudio,docker,kubernetes,neovim" />
   </a>
 </p>
 
