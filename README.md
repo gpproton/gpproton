@@ -36,7 +36,7 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
       
 - 🔭 I’m currently working on logistics SaaS
 - 🌱 I’m currently learning **Terraform, Puppet, Mojo**
-- 👯 I’m looking to collaborate on [Trace](https://github.com/gpproton/mochi)
+- 👯 I’m looking to collaborate on [Mochi](https://github.com/gpproton/mochi)
 - 💬 Ask me about **Ansible, Nuxt, Vue, dotnet, Docker**
 - 📫 How to reach me **me@godwin.dev**
       
