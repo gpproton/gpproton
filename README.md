@@ -49,7 +49,7 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
 <center><h3>Tools & Languages</h3></center>
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,ansible,cs,dotnet,go,graphql,typescript,nodejs,react,vue,nuxtjs,tailwind,nestjs,astro,git,docker,kubernetes,neovim" />
+    <img src="https://skillicons.dev/icons?i=angular,ansible,cs,dotnet,go,graphql,typescript,nodejs,react,vue,nuxtjs,tailwind,astro,docker,kubernetes" />
   </a>
 </p>
 
