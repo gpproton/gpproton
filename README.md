@@ -1,10 +1,9 @@
 
 <h1 align="center">Hi, I'm Godwin peter .O</h1>
 
-<h3 align="center">A Full-Stack, dotnet Developer</h3>
+<h3 align="center">A Full-Stack & Dotnet Developer</h3>
 
 ----
-
 <div align="center">
 <a href="https://github.com/gpproton" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -25,8 +24,16 @@
 
 ### Glad to see you here  
 
-I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with backend support.  
+Hello there, i'm is Godwin Peter, i am a Full-Stack Developer and Devops Engineer, with a passion for all things tech and a love for creating innovative solutions. But there's more to me than just coding and programming.
+
+When I'm not busy writing code, you can find me indulging in my love for Anime and Manga. I find inspiration in the creative and imaginative worlds of these mediums, constantly pushing me to think outside the box and approach problems from a different perspective. This translates into my work, where I strive to bring unique and effective solutions to the table.
+
+Speaking of my work, I specialize in a variety of programming languages including C#, Typescript, Vuejs, React, Asp.net Core, Nuxt, and Ansible. I am also well-versed in Python and have a strong understanding of Linux systems. My diverse skill set allows me to adapt to different projects and environments, making me a well-rounded and versatile developer.
+
+But my skills don't just stop at coding. As a Devops Engineer, I am experienced in automating processes and ensuring smooth delivery of projects. I am always up for a challenge and thrive in fast-paced and dynamic work environments.
+
 <br/>
+
 <table align="center">
   <tr>
     <td valign="top" width="90%">
@@ -38,13 +45,16 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
     </td>
   </tr>
 </table>
+  
 <br/>  
+
 <center><h3>Tools & Languages</h3></center>
 <p align=center>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,ansible,cs,dotnet,go,graphql,typescript,nodejs,react,vue,nuxtjs,tailwind,astro,docker,kubernetes" />
   </a>
 </p>
+
 <br/>  
 
 ## Github Stats  
