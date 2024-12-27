@@ -44,7 +44,7 @@ But my skills don't just stop at coding. As a Devops Engineer, I am experienced 
 
 <center><h3>Tools & Languages</h3></center>
 <p align=center>
-  <a href="https://skillicons.dev">
+  <a href="https://godwin.dev">
     <img src="https://skillicons.dev/icons?i=angular,ansible,cs,dotnet,go,graphql,typescript,nodejs,react,vue,nuxtjs,tailwind,astro,docker,kubernetes" />
   </a>
 </p>
@@ -56,7 +56,7 @@ But my skills don't just stop at coding. As a Devops Engineer, I am experienced 
 <table>
 <tr>
 <td valign="top" width="50%">
-![gpproton GitHub Stats](https://github-readme-stats.vercel.app/api?username=gpproton&theme=cobalt&show_icons=true&&line_height=40)
+<img src="https://github-readme-stats.vercel.app/api?username=gpproton&theme=cobalt&show_icons=true&&line_height=40)" align="left" style="width: 100%" />
 </td>
 <td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpproton&hide_border=true&layout=compact" align="left" style="width: 100%" />
