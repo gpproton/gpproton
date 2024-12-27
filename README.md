@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Godwin peter .O</h1>
 
-<h3 align="center">A FullStack Developer</h3>
+<h3 align="center">A Full-Stack, dotnet Developer</h3>
 
 ----
 
@@ -23,51 +23,36 @@
 </a>  
 </div>
 
+### Glad to see you here  
 
-
-### Glad to see you here!  
 I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with backend support.  
-
 <br/>
-
 <table align="center">
   <tr>
     <td valign="top" width="90%">
-      
-- 🔭 I’m currently working on transportation & logistics SaaS
-- 🌱 I’m currently learning **Zig, Pyinfra, Terraform**
+- 🔭 I’m currently working on transportation & logistics SaaS solutions
+- 🌱 I’m currently learning **Zig, Pyinfra,Neovim**
 - 👯 I’m looking to collaborate on [Mochi](https://github.com/gpproton/mochi)
 - 💬 Ask me about **Ansible, Nuxt, Vue, dotnet, Docker**
-- 📫 How to reach me **me@godwin.dev**
-      
+- 📫 How to reach me **<me@godwin.dev>**
     </td>
   </tr>
 </table>
-
 <br/>  
-
 <center><h3>Tools & Languages</h3></center>
 <p align=center>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,ansible,cs,dotnet,go,graphql,typescript,nodejs,react,vue,nuxtjs,tailwind,astro,docker,kubernetes" />
   </a>
 </p>
-
 <br/>  
 
-
 ## Github Stats  
+
 <table><tr><td valign="top" width="50%">
-
-<!--<img src="https://github-readme-stats.vercel.app/api?username=gpproton&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" /> -->
 ![gpproton GitHub Stats](https://github-readme-stats.vercel.app/api?username=gpproton&theme=cobalt&show_icons=true&&line_height=40)
-
 </td><td valign="top" width="50%">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpproton&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
 </td></tr>
 </table>  
 <br/>
-
-
