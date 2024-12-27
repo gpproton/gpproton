@@ -34,17 +34,11 @@ But my skills don't just stop at coding. As a Devops Engineer, I am experienced 
 
 <br/>
 
-<table align="center">
-  <tr>
-    <td valign="top" width="90%">
 - 🔭 I’m currently working on transportation & logistics SaaS solutions
 - 🌱 I’m currently learning **Zig, Pyinfra,Neovim**
 - 👯 I’m looking to collaborate on [Mochi](https://github.com/gpproton/mochi)
 - 💬 Ask me about **Ansible, Nuxt, Vue, dotnet, Docker**
 - 📫 How to reach me **<me@godwin.dev>**
-    </td>
-  </tr>
-</table>
   
 <br/>  
 
