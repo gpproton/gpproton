@@ -53,10 +53,15 @@ But my skills don't just stop at coding. As a Devops Engineer, I am experienced 
 
 ## Github Stats  
 
-<table><tr><td valign="top" width="50%">
+<table>
+<tr>
+<td valign="top" width="50%">
 ![gpproton GitHub Stats](https://github-readme-stats.vercel.app/api?username=gpproton&theme=cobalt&show_icons=true&&line_height=40)
-</td><td valign="top" width="50%">
+</td>
+<td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpproton&hide_border=true&layout=compact" align="left" style="width: 100%" />
-</td></tr>
-</table>  
+</td>
+</tr>
+</table>
+
 <br/>
